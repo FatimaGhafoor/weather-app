@@ -199,3 +199,5 @@ try {
 } catch (error) {
   console.error("App Initialization failed:", error);
 }
+
+console.log("Dev branch testing");
